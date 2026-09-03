@@ -26,7 +26,7 @@ The mod is still in active development. Most of the core systems are already imp
 - Minecraft **26.2**
 - NeoForge **26.2.0.59**
 - Java **25**
-- Basic RPG **1.0.0**
+- Basic RPG **0.0.1**
 
 The mod is currently developed for Minecraft 26.2. Other Minecraft or NeoForge versions are not officially supported unless stated otherwise.
 
