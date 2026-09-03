@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "basicrpgclasses:stone_fang_helmet",
+    "basicrpgclasses:stone_fang_chestplate",
+    "basicrpgclasses:stone_fang_leggings",
+    "basicrpgclasses:stone_fang_boots",
+    "basicrpgclasses:firstfang_helmet",
+    "basicrpgclasses:firstfang_chestplate",
+    "basicrpgclasses:firstfang_leggings",
+    "basicrpgclasses:firstfang_boots"
+  ]
+}

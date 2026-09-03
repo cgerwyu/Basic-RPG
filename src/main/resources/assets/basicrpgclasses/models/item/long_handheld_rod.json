@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 55],
+      "translation": [0, 5, 2.5],
+      "scale": [1.35, 1.35, 1.35]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, -55],
+      "translation": [0, 5, 2.5],
+      "scale": [1.35, 1.35, 1.35]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 90, 25],
+      "translation": [0, 2.5, 0.8],
+      "scale": [0.95, 0.95, 0.95]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -90, -25],
+      "translation": [0, 2.5, 0.8],
+      "scale": [0.95, 0.95, 0.95]
+    },
+    "gui": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [0.82, 0.82, 0.82]
+    },
+    "ground": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 3, 0],
+      "scale": [0.6, 0.6, 0.6]
+    }
+  }
+}

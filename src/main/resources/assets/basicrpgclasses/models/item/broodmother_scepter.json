@@ -1,0 +1,4 @@
+{
+  "parent": "basicrpgclasses:item/scepter_handheld",
+  "textures": { "layer0": "basicrpgclasses:item/broodmother_scepter" }
+}

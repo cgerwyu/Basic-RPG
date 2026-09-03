@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:stick",
+    "M": "basicrpgclasses:moss_hide",
+    "H": "basicrpgclasses:heart_of_thicket",
+    "T": "minecraft:string"
+  },
+  "pattern": [
+    " SM",
+    "SHT",
+    " SM"
+  ],
+  "result": { "id": "basicrpgclasses:mossfang_shortbow" }
+}

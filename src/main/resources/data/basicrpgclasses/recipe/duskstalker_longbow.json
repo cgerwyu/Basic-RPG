@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:stick",
+    "D": "basicrpgclasses:dusk_hide",
+    "H": "basicrpgclasses:lunar_eye",
+    "T": "minecraft:string"
+  },
+  "pattern": [
+    " SD",
+    "SHT",
+    " SD"
+  ],
+  "result": { "id": "basicrpgclasses:duskstalker_longbow" }
+}

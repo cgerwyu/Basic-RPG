@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "P": "#minecraft:planks",
+    "T": "minecraft:crafting_table"
+  },
+  "pattern": [
+    " I ",
+    "PTP",
+    "PPP"
+  ],
+  "result": { "id": "basicrpgclasses:class_workbench" }
+}

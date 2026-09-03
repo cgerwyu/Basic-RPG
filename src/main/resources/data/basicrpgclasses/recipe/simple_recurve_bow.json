@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": "basicrpgclasses:simple_shortbow",
+    "I": "minecraft:iron_nugget",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    " IS",
+    " B ",
+    "SI "
+  ],
+  "result": { "id": "basicrpgclasses:simple_recurve_bow" }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": "basicrpgclasses:broodmother_eye",
+    "T": "basicrpgclasses:strong_silk",
+    "G": "minecraft:gold_ingot",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    " E ",
+    "TGT",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:broodmother_scepter" }
+}

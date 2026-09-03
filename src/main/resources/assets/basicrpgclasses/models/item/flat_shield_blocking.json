@@ -1,0 +1,25 @@
+{
+  "parent": "basicrpgclasses:item/flat_shield",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-20, 0, 0],
+      "translation": [0, 7, -1],
+      "scale": [1.25, 1.25, 1.25]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-20, 0, 0],
+      "translation": [0, 7, -1],
+      "scale": [1.25, 1.25, 1.25]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [5, 4, -4],
+      "scale": [1.45, 1.45, 1.45]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, 0],
+      "translation": [5, 4, -4],
+      "scale": [1.45, 1.45, 1.45]
+    }
+  }
+}

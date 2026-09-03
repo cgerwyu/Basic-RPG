@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "basicrpgclasses:storm_feather",
+    "C": "basicrpgclasses:heart_of_storm",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    " S ",
+    "SC ",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:dawnfire_sword" }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "F": "basicrpgclasses:storm_feather",
+    "H": "basicrpgclasses:heart_of_storm"
+  },
+  "pattern": [
+    "IFI",
+    "IHI",
+    " I "
+  ],
+  "result": { "id": "basicrpgclasses:stormguard_shield" }
+}

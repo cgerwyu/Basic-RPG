@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "basicrpgclasses:firstfang"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "basicrpgclasses:firstfang"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "basicrpgclasses:firstfang"
+      }
+    ]
+  }
+}

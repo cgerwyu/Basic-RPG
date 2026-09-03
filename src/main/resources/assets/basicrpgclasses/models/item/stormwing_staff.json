@@ -1,0 +1,4 @@
+{
+  "parent": "basicrpgclasses:item/long_handheld_rod",
+  "textures": { "layer0": "basicrpgclasses:item/stormwing_staff" }
+}

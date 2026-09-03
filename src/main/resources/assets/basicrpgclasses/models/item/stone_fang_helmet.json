@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "basicrpgclasses:item/stone_fang_helmet" }
+}

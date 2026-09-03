@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "basicrpgclasses:item/thicket_heart_ring" }
+}

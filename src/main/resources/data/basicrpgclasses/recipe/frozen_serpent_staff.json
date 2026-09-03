@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": "basicrpgclasses:frozen_heart",
+    "F": "basicrpgclasses:frost_scale",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    " H ",
+    " F ",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:frozen_serpent_staff" }
+}

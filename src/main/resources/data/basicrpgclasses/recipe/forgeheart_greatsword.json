@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "basicrpgclasses:ancient_plate",
+    "P": "basicrpgclasses:runic_mechanism",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    "APA",
+    " A ",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:forgeheart_greatsword" }
+}

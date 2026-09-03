@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "#minecraft:iron_tool_materials",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "II ",
+    "II ",
+    " S "
+  ],
+  "result": { "id": "basicrpgclasses:iron_greatsword" }
+}

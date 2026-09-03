@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "package": "net.cgerwyu.basicrpgclasses.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "AbstractContainerMenuAccessor",
+    "ArmorSlotMixin",
+    "InventoryMenuMixin",
+    "InventoryMixin",
+    "LivingEntityEquipmentMixin",
+    "SlotAccessor",
+    "SlotMixin"
+  ],
+  "client": [
+    "client.CreativeModeInventoryScreenMixin",
+    "client.InventoryScreenMixin",
+    "client.LivingEntityRendererAccessor",
+    "client.MinecraftHotbarMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

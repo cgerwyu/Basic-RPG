@@ -1,0 +1,4 @@
+{
+  "parent": "basicrpgclasses:item/flat_shield_blocking",
+  "textures": { "layer0": "basicrpgclasses:item/stormguard_shield" }
+}

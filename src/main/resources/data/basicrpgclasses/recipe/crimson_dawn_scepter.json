@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": "basicrpgclasses:crimson_heart",
+    "G": "minecraft:gold_ingot",
+    "S": "basicrpgclasses:crimson_scale",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    " H ",
+    "GSG",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:crimson_dawn_scepter" }
+}

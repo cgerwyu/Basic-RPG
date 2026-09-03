@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "basicrpgclasses:ancient_plate",
+    "P": "basicrpgclasses:runic_mechanism"
+  },
+  "pattern": [
+    "APA",
+    "AAA",
+    " A "
+  ],
+  "result": { "id": "basicrpgclasses:runic_bulwark" }
+}

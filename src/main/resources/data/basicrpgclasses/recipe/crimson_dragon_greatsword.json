@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "basicrpgclasses:crimson_scale",
+    "C": "basicrpgclasses:crimson_heart",
+    "B": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    "SCS",
+    " S ",
+    " B "
+  ],
+  "result": { "id": "basicrpgclasses:crimson_dragon_greatsword" }
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "basicrpgclasses:item/large_handheld",
+  "textures": { "layer0": "basicrpgclasses:item/forgeheart_greatsword" }
+}
